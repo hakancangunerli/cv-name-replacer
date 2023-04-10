@@ -6,7 +6,6 @@ AI-name-replacer using CV image captioning from huggingface-transformers to a na
 
 matplotlib
 huggingface-transformers
-os
 
 ## References
 
