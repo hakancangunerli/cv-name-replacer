@@ -7,6 +7,10 @@ AI-name-replacer using CV image captioning from huggingface-transformers to a na
 matplotlib
 huggingface-transformers
 
+## Demo
+
+PDF of the demo is in the folder called example.pdf and the dataset is the original_pics's updated version.
+
 ## References
 
 <https://huggingface.co/nlpconnect/vit-gpt2-image-captioning>
